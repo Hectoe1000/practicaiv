@@ -1,0 +1,14 @@
+D:\CATALOGOS\codigo\practica\models\bin\Debug\net8.0\models.deps.json
+D:\CATALOGOS\codigo\practica\models\bin\Debug\net8.0\models.runtimeconfig.json
+D:\CATALOGOS\codigo\practica\models\bin\Debug\net8.0\models.dll
+D:\CATALOGOS\codigo\practica\models\bin\Debug\net8.0\models.pdb
+D:\CATALOGOS\codigo\practica\models\obj\Debug\net8.0\models.csproj.AssemblyReference.cache
+D:\CATALOGOS\codigo\practica\models\obj\Debug\net8.0\models.GeneratedMSBuildEditorConfig.editorconfig
+D:\CATALOGOS\codigo\practica\models\obj\Debug\net8.0\models.AssemblyInfoInputs.cache
+D:\CATALOGOS\codigo\practica\models\obj\Debug\net8.0\models.AssemblyInfo.cs
+D:\CATALOGOS\codigo\practica\models\obj\Debug\net8.0\models.csproj.CoreCompileInputs.cache
+D:\CATALOGOS\codigo\practica\models\obj\Debug\net8.0\models.dll
+D:\CATALOGOS\codigo\practica\models\obj\Debug\net8.0\refint\models.dll
+D:\CATALOGOS\codigo\practica\models\obj\Debug\net8.0\models.pdb
+D:\CATALOGOS\codigo\practica\models\obj\Debug\net8.0\models.genruntimeconfig.cache
+D:\CATALOGOS\codigo\practica\models\obj\Debug\net8.0\ref\models.dll

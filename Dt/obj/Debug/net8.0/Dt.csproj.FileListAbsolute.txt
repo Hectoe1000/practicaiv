@@ -1,0 +1,11 @@
+D:\CATALOGOS\codigo\practica\Dt\bin\Debug\net8.0\Dt.deps.json
+D:\CATALOGOS\codigo\practica\Dt\bin\Debug\net8.0\Dt.dll
+D:\CATALOGOS\codigo\practica\Dt\bin\Debug\net8.0\Dt.pdb
+D:\CATALOGOS\codigo\practica\Dt\obj\Debug\net8.0\Dt.GeneratedMSBuildEditorConfig.editorconfig
+D:\CATALOGOS\codigo\practica\Dt\obj\Debug\net8.0\Dt.AssemblyInfoInputs.cache
+D:\CATALOGOS\codigo\practica\Dt\obj\Debug\net8.0\Dt.AssemblyInfo.cs
+D:\CATALOGOS\codigo\practica\Dt\obj\Debug\net8.0\Dt.csproj.CoreCompileInputs.cache
+D:\CATALOGOS\codigo\practica\Dt\obj\Debug\net8.0\Dt.dll
+D:\CATALOGOS\codigo\practica\Dt\obj\Debug\net8.0\refint\Dt.dll
+D:\CATALOGOS\codigo\practica\Dt\obj\Debug\net8.0\Dt.pdb
+D:\CATALOGOS\codigo\practica\Dt\obj\Debug\net8.0\ref\Dt.dll

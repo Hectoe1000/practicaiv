@@ -1,0 +1,50 @@
+-- Crear la base de datos
+CREATE DATABASE MiTienda;
+GO
+
+-- Usar la base de datos recién creada
+USE MiTienda;
+GO
+
+-- Crear la tabla Clientes
+CREATE TABLE Clientes (
+    ClienteId INT PRIMARY KEY IDENTITY(1,1),
+    Nombre NVARCHAR(100) NOT NULL,
+    Correo NVARCHAR(100) NOT NULL
+);
+GO
+
+-- Crear la tabla Pedidos
+CREATE TABLE Pedidos (
+    PedidoId INT PRIMARY KEY IDENTITY(1,1),
+    Fecha DATETIME NOT NULL,
+    Monto DECIMAL(18, 2) NOT NULL,
+    ClienteId INT NOT NULL,
+    FOREIGN KEY (ClienteId) REFERENCES Clientes(ClienteId)
+);
+GO
+
+-- Insertar algunos datos en la tabla Clientes
+INSERT INTO Clientes (Nombre, Correo) 
+VALUES 
+    ('Juan Pérez', 'juan.perez@correo.com'),
+    ('Ana Gómez', 'ana.gomez@correo.com'),
+    ('Carlos López', 'carlos.lopez@correo.com');
+GO
+
+-- Insertar algunos datos en la tabla Pedidos
+INSERT INTO Pedidos (Fecha, Monto, ClienteId)
+VALUES
+    ('2024-11-01', 100.50, 1),
+    ('2024-11-02', 200.75, 1),
+    ('2024-11-03', 50.00, 2),
+    ('2024-11-04', 150.00, 3);
+GO
+
+-- Consultar los datos con un INNER JOIN entre Clientes y Pedidos
+SELECT 
+    c.ClienteId, c.Nombre, c.Correo, 
+    p.PedidoId, p.Fecha, p.Monto
+FROM Clientes c
+INNER JOIN Pedidos p ON c.ClienteId = p.ClienteId;
+GO

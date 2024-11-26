@@ -1,0 +1,17 @@
+D:\CATALOGOS\codigo\practica\ApplicationDbContext\bin\Debug\net8.0\context.deps.json
+D:\CATALOGOS\codigo\practica\ApplicationDbContext\bin\Debug\net8.0\context.runtimeconfig.json
+D:\CATALOGOS\codigo\practica\ApplicationDbContext\bin\Debug\net8.0\context.dll
+D:\CATALOGOS\codigo\practica\ApplicationDbContext\bin\Debug\net8.0\context.pdb
+D:\CATALOGOS\codigo\practica\ApplicationDbContext\bin\Debug\net8.0\models.dll
+D:\CATALOGOS\codigo\practica\ApplicationDbContext\bin\Debug\net8.0\models.pdb
+D:\CATALOGOS\codigo\practica\ApplicationDbContext\obj\Debug\net8.0\context.csproj.AssemblyReference.cache
+D:\CATALOGOS\codigo\practica\ApplicationDbContext\obj\Debug\net8.0\context.GeneratedMSBuildEditorConfig.editorconfig
+D:\CATALOGOS\codigo\practica\ApplicationDbContext\obj\Debug\net8.0\context.AssemblyInfoInputs.cache
+D:\CATALOGOS\codigo\practica\ApplicationDbContext\obj\Debug\net8.0\context.AssemblyInfo.cs
+D:\CATALOGOS\codigo\practica\ApplicationDbContext\obj\Debug\net8.0\context.csproj.CoreCompileInputs.cache
+D:\CATALOGOS\codigo\practica\ApplicationDbContext\obj\Debug\net8.0\context.csproj.CopyComplete
+D:\CATALOGOS\codigo\practica\ApplicationDbContext\obj\Debug\net8.0\context.dll
+D:\CATALOGOS\codigo\practica\ApplicationDbContext\obj\Debug\net8.0\refint\context.dll
+D:\CATALOGOS\codigo\practica\ApplicationDbContext\obj\Debug\net8.0\context.pdb
+D:\CATALOGOS\codigo\practica\ApplicationDbContext\obj\Debug\net8.0\context.genruntimeconfig.cache
+D:\CATALOGOS\codigo\practica\ApplicationDbContext\obj\Debug\net8.0\ref\context.dll
